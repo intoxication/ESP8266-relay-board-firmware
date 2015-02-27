@@ -1,0 +1,14 @@
+<html><head><title>Saved - RN+ Smartswitch</title>
+<link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+<body>
+<body><div class="header"><div class="float_left"><h1><a href="http://www.rnplus.nl">RN+</a> SMARTSWITCH</h1></div><div class="float_right"><a href="/">Home</a>&nbsp;<a href="/wifi">Network settings</a></div></div>
+<div class="main">
+<strong>Saved</strong>
+<hr />
+To apply the new settings the device needs to reboot. Would you like to reboot now?
+<hr />
+<button type="button" onclick="location.href = 'settings';">No</button>&nbsp;<button type="button" onclick="location.href = 'reboot';">Yes</button>
+</div>
+</body>
+</html>

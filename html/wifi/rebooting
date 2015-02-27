@@ -1,0 +1,11 @@
+<html><head><title>Reboot in progress... - RN+ Smartswitch</title>
+<link rel="stylesheet" type="text/css" href="../style.css">
+<meta http-equiv="refresh" content="10; url=/home">
+</head>
+<body>
+<body><div class="header"><div class="float_left"><h1><a href="http://www.rnplus.nl">RN+</a> SMARTSWITCH</h1></div></div>
+<div class="main">
+<strong>The device is rebooting...</strong><br />
+</div>
+</body>
+</html>
