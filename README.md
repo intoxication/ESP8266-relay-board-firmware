@@ -1,3 +1,6 @@
+#Very old. I suggest not to use this code.
+
+
 # ESP8266
 ESP8266 firmware for a dual output wifi switch with DHT22 sensor
 
